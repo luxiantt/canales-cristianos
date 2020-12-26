@@ -1,0 +1,6 @@
+#EXTINF:-1 tvg-logo="https://tvcristiana.net/wp-content/uploads/2013/05/tvpost-canalluz-737x475.jpg" ,Canal Luz HD
+http://g3.mc-hor.transport.edge-access.net/a11/ngrp:canal_luz01-100009_all/canal_luz01-100009_720p.m3u8
+#EXTINF:-1 tvg-logo="https://avivamiento.com/images/all-images/index/images/logo-negro-centro-mundial-de-avivamiento.png" ,Avivamiento HD
+https://s1.abntelevision.com/avivamientoabr/stream/avivamientohd/avivamientohd/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://www.enlace.org/wp-content/uploads/2014/05/Enlace_icon_new-e1455675645366.jpg" ,Enlace HD
+http://api.new.livestream.com/accounts/2675843/events/1839332/live.m3u8
